@@ -1,6 +1,6 @@
 # Resistivity Viewer
 
-![Exemplo de visualização 3D](/imgs/screenshot.png)
+![Exemplo de visualização 3D](imgs/snapshot.png)
 
 Este projeto é um programa de visualização 3D e 2D de dados de resistividade. Ele permite visualizar os dados em um ambiente 3D interativo e também em planos XY, XZ e YZ. Além disso, é possível personalizar a escala de cores para uma interpretação visual eficiente.
 
@@ -12,7 +12,6 @@ Certifique-se de ter o Python instalado. Você pode verificar a versão do Pytho
 
 ```
 git clone https://github.com/LeandroSeabra/Resistivity_Viewer.git
-
 ```
 
 2.Acesse o diretório do projeto:
@@ -31,7 +30,6 @@ Execute o programa principal main.py para visualizar :
 
 ```
 python ResistivityViewer.py
-
 ```
 O programa abrirá uma visualização 3D dos dados de resistividade e permitirá que você navegue pelo ambiente 3D. Além disso, você pode plotar os planos XY, XZ e YZ para analisar os dados em 2D.
 
