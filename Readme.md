@@ -34,7 +34,7 @@ python ResistivityViewer.py
 O programa abrirá uma visualização 3D dos dados de resistividade e permitirá que você navegue pelo ambiente 3D. Além disso, você pode plotar os planos XY, XZ e YZ para analisar os dados em 2D.
 
 ## Licença
-Este projeto está licenciado sob [Inserir Nome da Licença]. Consulte o arquivo LICENSE para obter mais informações.
+Este projeto está licenciado sob [MIT License]. Consulte o arquivo LICENSE para obter mais informações.
 
 ## Contato
 
