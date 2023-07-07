@@ -10,29 +10,29 @@ Certifique-se de ter o Python instalado. Você pode verificar a versão do Pytho
 
 1.Clone este repositório em seu ambiente local:
 
-'''
+```
 git clone https://github.com/LeandroSeabra/Resistivity_Viewer.git
 
-'''
+```
 
 2.Acesse o diretório do projeto:
 
-'''
+```
 cd Resistivity_Viewer
-'''
+```
 
 3.Instale as dependências necessárias executando o seguinte comando:
-'''
+```
 pip install -r requirements.txt
-'''
+```
 
 ## Uso
 Execute o programa principal main.py para visualizar :
 
-'''
+```
 python ResistivityViewer.py
 
-'''
+```
 O programa abrirá uma visualização 3D dos dados de resistividade e permitirá que você navegue pelo ambiente 3D. Além disso, você pode plotar os planos XY, XZ e YZ para analisar os dados em 2D.
 
 ## Licença
